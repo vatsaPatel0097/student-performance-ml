@@ -75,4 +75,8 @@ python src/predict.py
 
 ![App UI] & [Prediction output]
 
+## 🚀 Live Demo
+
+🔗 Streamlit App:  
+https://student-performance-ml-ufsmu9zzkjzyp2tdqqkekm.streamlit.app/
 
