@@ -17,3 +17,9 @@ Project setup completed.
 - app/ → Deployment
 - models/ → Saved models
 
+
+## Inference
+
+Run prediction using:
+```bash
+python src/predict.py
